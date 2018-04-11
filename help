@@ -1,0 +1,11 @@
+<html>
+<a href="#send-raven">Send Raven</a><br>
+<a href="#receive-raven">Receive</a><br>
+
+<h2><a name="send-raven">Send Raven</a></h2>
+To send Ravencoin, enter the address (account) of the recipient.  Enter the amount of Ravencoin you'd like to send.  Enter some text in the optional memo field.  The info in the memo field does not get sent, and is for your reference only.
+
+<h2><a name="receive-raven">Receive Raven</a></h2>
+To receive Ravencoin, the other party needs to know your Ravencoin public address (account).  They can scan your barcode, or you can copy/paste your address into an e-mail, or have your phone send the address via e-mail, or text.
+
+<html>
